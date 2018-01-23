@@ -1,5 +1,7 @@
 ## slackbot in AWS Lambda
 
+<img src="sample.png" width=400>
+
 #### Dependencies:
 
 ```
