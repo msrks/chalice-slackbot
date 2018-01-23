@@ -1,0 +1,4 @@
+.chalice/*
+!.chalice/config.json
+__pycache__/
+vendor/
