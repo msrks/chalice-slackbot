@@ -3,7 +3,7 @@
 # nano app.py
 
 pip install requests -t ./vendor/
-echo request > requirements.txt
+echo requests > requirements.txt
 
 pip install slackbot -t ./vendor/
 echo slackbot >> requirements.txt
