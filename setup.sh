@@ -3,10 +3,13 @@
 # nano app.py
 
 pip install requests -t ./vendor/
-echo requests > requirements.txt
+echo request > requirements.txt
 
 pip install slackbot -t ./vendor/
 echo slackbot >> requirements.txt
+
+pip install slackweb -t ./vendor/
+echo slackweb >> requirements.txt
 
 # chalice local
 # chalice deploy

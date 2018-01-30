@@ -8,9 +8,19 @@
 chalice
 requests
 slackbot
+slackweb
 ```
 
 #### Features:
+
+[Scheduled Handler](http://chalice.readthedocs.io/en/latest/api.html#Cron)
+
+```
+every 6 hours:
+  -> notify BTC_JPY to Slack
+```
+
+REST API
 
 ```
 /bitcoin
